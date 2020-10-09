@@ -32,28 +32,25 @@ body {
 }
 
 .logo {
-	font-family: aktiv-grotesk-extended, sans-serif;
-	font-weight: 700;
+	font-family: soleil, sans-serif;
+	font-weight: 500;
 	font-style: normal;
-	text-transform: uppercase;
-	color: #1F2833;
-	font-size: 0.8em;
-	background: #E1E7EC;
-	letter-spacing: 1px;
+	color: #E1E7EC;
+	font-size: 1.2em;
 	padding: 10px;
 	padding-bottom: 8px;
 	position: absolute;
-	left: 0px;
+	left: 20px;
 	top: 20px;
 }
 
 h1 {
 	color: #E1E7EC;
 	font-size: 3.5em;
-	line-height: 1em;
+	line-height: 1.1em;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	font-family: aktiv-grotesk-extended, serif;
+	font-family: soleil, sans-serif;
 	font-weight: 300;
 	font-style: normal;
 }
@@ -68,12 +65,12 @@ h1 .highlight {
 
 p {
 	color: #E1E7EC;
-	line-height: 1.25em;
+	font-family: soleil, sans-serif;
+	line-height: 1.5em;
 	font-weight: 300;
 	font-size: 1.1em;
 	margin-top: 0px;
 	margin-bottom: 20px;
-	font-family: sans-serif;
 }
 
 p strong {
